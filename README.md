@@ -1,4 +1,4 @@
-#tk3_sound_localization
+# tk3_sound_localization
 using Tamago-03 and hark
 ## Usage:
 -  1.Install hark environment according to http://www.hark.jp/wiki.cgi?page=HARK+Installation+Instructions
